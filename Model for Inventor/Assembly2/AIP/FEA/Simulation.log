@@ -1,0 +1,70 @@
+﻿Study Static Analysis:1 started: 20-01-2022, 11:48:40
+Number of configurations: 1
+Default mesh: 21010 elements, 39580 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 6.1s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-01-2022, 11:48:50
+Total time 0:00:10
+
+Study Static Analysis:1 started: 20-01-2022, 11:56:11
+Number of configurations: 1
+Default mesh: 21010 elements, 39580 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 3.5s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-01-2022, 11:56:16
+Total time 0:00:05
+
+Study Static Analysis:2 started: 20-01-2022, 12:00:02
+Number of configurations: 1
+Default mesh: 21010 elements, 39580 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 3.7s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:2 finished: 20-01-2022, 12:00:10
+Total time 0:00:08
+
+Study Static Analysis:2 started: 20-01-2022, 12:00:58
+Number of configurations: 1
+Default mesh: 21010 elements, 39580 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 3.6s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:2 finished: 20-01-2022, 12:01:03
+Total time 0:00:05
+
+Study Static Analysis:1 started: 20-01-2022, 14:13:56
+Number of configurations: 1
+Study Static Analysis:1 finished: 20-01-2022, 14:13:56
+Total time 0:00:00
+
+Study Static Analysis:2 started: 20-01-2022, 14:15:29
+Number of configurations: 1
+Study Static Analysis:2 finished: 20-01-2022, 14:15:29
+Total time 0:00:00
+
+Study Static Analysis:1 started: 20-01-2022, 14:17:05
+Number of configurations: 1
+Default mesh: 21010 elements, 39580 nodes
+A model separates into 2 independent components
+Soft spring was added
+Solution time 3.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study Static Analysis:1 finished: 20-01-2022, 14:17:11
+Total time 0:00:06
+
+Study Static Analysis:2 started: 20-01-2022, 14:18:04
+Number of configurations: 1
+Study Static Analysis:2 finished: 20-01-2022, 14:18:04
+Total time 0:00:00
+
